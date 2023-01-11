@@ -1,5 +1,5 @@
 # Spotify Clone Using React JS
-->Still In-progress
+Using React JS and Styled Components along with the help of Spotify API and Context API, this an attempt to build a Spotify Clone. 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
