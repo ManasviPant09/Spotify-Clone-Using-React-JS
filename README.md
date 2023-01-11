@@ -1,5 +1,5 @@
 # Spotify Clone Using React JS
-Using React JS and Styled Components along with the help of Spotify API and Context API, this an attempt to build a Spotify Clone. 
+By using React JS and Styled Components and utilising the Spotify API and Context API, this an attempt to build a Spotify Clone. 
 
 ## Here's the link : 
 ### https://nimble-snickerdoodle-59a555.netlify.app
