@@ -2,10 +2,7 @@
 By using React JS and Styled Components and utilising the Spotify API and Context API, this an attempt to build a Spotify Clone. 
 
 ## Here's the link : 
-### https://spotify-clone-b2fcc.web.app
 ### https://spotify-clone-1106-f0df5.web.app
-Working on some deployment issues, change the 'redirect_uri' in the address bar to https://spotify-clone-b2fcc.web.app to view the app!
-
 
 ## Available Scripts
 
