@@ -3,7 +3,7 @@ By using React JS and Styled Components and utilising the Spotify API and Contex
 
 ## Here's the link : 
 ### https://spotify-clone-b2fcc.web.app
-Working on some deploying issues, change the 'redirect_uri' in the address bar to https://spotify-clone-b2fcc.web.app to view the app!
+Working on some deployment issues, change the 'redirect_uri' in the address bar to https://spotify-clone-b2fcc.web.app to view the app!
 
 
 ## Available Scripts
